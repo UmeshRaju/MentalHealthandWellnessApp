@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mental Health and Wellness App</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="button1">Continue</string>
+    <string name="textView1">This app aims to develop a Mental Health and Wellness designed to empower users in managing their mental well-being through a holistic and personalized approach.
+</string>
+    <string name="textview2">Breathing is the best exercise to reduce stress and greatly help your mind to be free</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_sleep_schedule_is_fine">Your sleep schedule is fine</string>
+    <string name="great_sleep">Great you are getting enough sleep</string>
+    <string name="less_sleep">You should get more sleep</string>
+    <string name="breathe">here information about breathing exercise</string>
+    <string name="mood1">"Take a deep breath. You've overcome challenges before, and you can do it again."</string>
+    <string name="mood2">"Your happiness is contagious—spread it like confetti!"</string>
+</resources>
