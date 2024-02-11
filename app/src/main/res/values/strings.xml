@@ -13,4 +13,6 @@
     <string name="breathe">here information about breathing exercise</string>
     <string name="mood1">"Take a deep breath. You've overcome challenges before, and you can do it again."</string>
     <string name="mood2">"Your happiness is contagious—spread it like confetti!"</string>
+    <string name="age">age</string>
+    <string name="name">Name</string>
 </resources>

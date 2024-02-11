@@ -1,10 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.MentalHealthAndWellnessApp" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Button">button</style>
+    <!-- Customize your light theme here. -->
+    <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <!-- Customize your theme here -->
+    <item name="colorPrimary" type="color">@color/lavender</item>
+    <item name="colorPrimaryDark" type="color">@color/lavender</item>
+    <item name="colorAccent" type="color">@color/lavender</item>
 
+    <!-- Define blue button style -->
+    <item name="buttonStyle" type="style">@style/Button</item>
+
+        <style name="BlueButton" parent="Widget.AppCompat.Button">
+            <item name="android:backgroundTint">@color/blueColor</item>
+        </style>
     </style>
-
-    <style name="Theme.MentalHealthAndWellnessApp" parent="Base.Theme.MentalHealthAndWellnessApp" />
 </resources>
